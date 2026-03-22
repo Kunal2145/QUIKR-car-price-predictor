@@ -102,12 +102,6 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
-
-👉 (Add your deployed Streamlit link here)
-
----
-
 ## 📸 Screenshot
 
 <img width="1174" height="629" alt="Screenshot 2026-03-22 at 9 13 27 PM" src="https://github.com/user-attachments/assets/3b1ad2ac-77aa-48f9-b675-793d9ccc1d57" />
